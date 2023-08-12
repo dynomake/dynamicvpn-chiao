@@ -13,7 +13,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'io.github.dynomake:dynamicvpn-chiao:0.0.1'
+    implementation 'io.github.dynomake:dynamicvpn-chiao:0.0.2'
 }
 ```
 
